@@ -7,15 +7,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1"/>
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Controllers\" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\KariyerimEsnek.Application\KariyerimEsnek.Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
     </ItemGroup>
 
 </Project>

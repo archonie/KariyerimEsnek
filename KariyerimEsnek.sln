@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KariyerimEsnek.Application"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KariyerimEsnek.Infrastructure", "KariyerimEsnek.Infrastructure\KariyerimEsnek.Infrastructure.csproj", "{0A132F69-6A86-41D2-A492-40677D155944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KariyerimEsnek.API", "KariyerimEsnek.API\KariyerimEsnek.API.csproj", "{08382B5D-4A9C-4E5F-BD19-F5DBD10C30D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KariyerimEsnek.API", "KariyerimEsnek.API\KariyerimEsnek.API.csproj", "{89253161-A2E7-445E-9D44-F16634397416}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{0A132F69-6A86-41D2-A492-40677D155944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A132F69-6A86-41D2-A492-40677D155944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A132F69-6A86-41D2-A492-40677D155944}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08382B5D-4A9C-4E5F-BD19-F5DBD10C30D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08382B5D-4A9C-4E5F-BD19-F5DBD10C30D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08382B5D-4A9C-4E5F-BD19-F5DBD10C30D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08382B5D-4A9C-4E5F-BD19-F5DBD10C30D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89253161-A2E7-445E-9D44-F16634397416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89253161-A2E7-445E-9D44-F16634397416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89253161-A2E7-445E-9D44-F16634397416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89253161-A2E7-445E-9D44-F16634397416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

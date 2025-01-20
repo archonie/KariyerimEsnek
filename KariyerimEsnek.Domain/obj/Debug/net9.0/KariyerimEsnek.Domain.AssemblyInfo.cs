@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KariyerimEsnek.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b5e18e1d58edd752462a13e25515944db9e373")]
 [assembly: System.Reflection.AssemblyProductAttribute("KariyerimEsnek.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KariyerimEsnek.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
