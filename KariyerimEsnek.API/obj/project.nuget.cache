@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b73NTXZhoCs=",
+  "success": true,
+  "projectFilePath": "/Users/archonie/Desktop/KariyerimEsnek.Backend/KariyerimEsnek/KariyerimEsnek.API/KariyerimEsnek.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/archonie/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/archonie/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
